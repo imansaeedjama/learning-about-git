@@ -4,3 +4,5 @@ What's your name?`);
 
   let greeting = prompt(` hello ${userName}`);
 };
+
+greetingFunc();
